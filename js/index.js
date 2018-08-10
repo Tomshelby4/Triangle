@@ -6,3 +6,6 @@ var C = parseFloat(document.getElementById('sideThree').value);
 	var AB = A + B;
   var AC = A + C;
   var BC = B + C;
+  /*Add if ... else statements to calculate all possible conditions*/
+  	 if ((AB < C) || (AC < B) || (BC < A)) {
+  		 alert("There is no triangle formed");
