@@ -1,5 +1,5 @@
 # Triangle
-A web page that allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all. 
+A web page that allows the user to input the lengths of the sides of a triangle, and returns whether these sides form an equilateral, isosceles, or scalene triangle or if the sides cannot make a triangle at all. View at: https://tomshelby4.github.io/Triangle/
 Description
 This application is called Triangle-Tracker. The page contains three input forms which enable someone to input the length(in Cm) of the three different sides of triangle. It tells the user the type of triangle which will be formed from the three input by the user or if no triangle will be formed. The application uses a function of if else statement and has a button which which executes the function upon being clicked to make the application logic possible.
 
